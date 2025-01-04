@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LucasMontebeller/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LucasMontebeller/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,8 +61,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/LucasMontebeller/leet-code/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LucasMontebeller/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
