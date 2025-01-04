@@ -11,23 +11,21 @@
  */
 public class Solution {
     public bool IsPalindrome(ListNode head) {
-        Dictionary<int, int> positionValue = [];
-
+        List<int> elements = [];
         var node = head;
-        var position = 0;
         while (true)
         {
-            positionValue.Add(position, node.val);
+            elements.Add(node.val);
+
             if (node.next is null)
                 break;
 
             node = node.next;
-            position++;
         }
 
-        for (int i = 0; i < positionValue.Count / 2; i++)
+        for (int i = 0; i < elements.Count / 2; i++)
         {
-            if (positionValue[i] != positionValue[positionValue.Count - i - 1])
+            if (elements[i] != elements[elements.Count - i - 1])
                 return false;
         }
 
