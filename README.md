@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LucasMontebeller/leet-code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LucasMontebeller/leet-code/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/LucasMontebeller/leet-code/tree/master/0066-plus-one) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LucasMontebeller/leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LucasMontebeller/leet-code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/LucasMontebeller/leet-code/tree/master/0036-valid-sudoku) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
