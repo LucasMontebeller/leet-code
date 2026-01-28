@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LucasMontebeller/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LucasMontebeller/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LucasMontebeller/leet-code/tree/master/0067-add-binary) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/LucasMontebeller/leet-code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Trie
 |  |
