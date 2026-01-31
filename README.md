@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LucasMontebeller/leet-code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/LucasMontebeller/leet-code/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/LucasMontebeller/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LucasMontebeller/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LucasMontebeller/leet-code/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/LucasMontebeller/leet-code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LucasMontebeller/leet-code/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Doubly-Linked List
 |  |
