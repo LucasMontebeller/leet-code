@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LucasMontebeller/leet-code/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/LucasMontebeller/leet-code/tree/master/0066-plus-one) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/LucasMontebeller/leet-code/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/LucasMontebeller/leet-code/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/LucasMontebeller/leet-code/tree/master/2278-percentage-of-letter-in-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
