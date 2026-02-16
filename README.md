@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/LucasMontebeller/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
 ## Stack
