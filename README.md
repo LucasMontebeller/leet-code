@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/LucasMontebeller/leet-code/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -173,8 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
