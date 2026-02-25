@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/LucasMontebeller/leet-code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LucasMontebeller/leet-code/tree/master/0067-add-binary) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -177,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
