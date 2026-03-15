@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
+| [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
+| [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
