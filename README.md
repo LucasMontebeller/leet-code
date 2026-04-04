@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/LucasMontebeller/leet-code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1881-maximum-value-after-insertion](https://github.com/LucasMontebeller/leet-code/tree/master/1881-maximum-value-after-insertion) |
 | [2278-percentage-of-letter-in-string](https://github.com/LucasMontebeller/leet-code/tree/master/2278-percentage-of-letter-in-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Trie
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Greedy
+|  |
+| ------- |
+| [1881-maximum-value-after-insertion](https://github.com/LucasMontebeller/leet-code/tree/master/1881-maximum-value-after-insertion) |
 <!---LeetCode Topics End-->
