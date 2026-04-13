@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 ## Doubly-Linked List
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 ## Ordered Set
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-maximum-value-after-insertion](https://github.com/LucasMontebeller/leet-code/tree/master/1881-maximum-value-after-insertion) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
