@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1396-design-underground-system](https://github.com/LucasMontebeller/leet-code/tree/master/1396-design-underground-system) |
+| [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LucasMontebeller/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
+| [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
 | ------- |
@@ -144,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/LucasMontebeller/leet-code/tree/master/1396-design-underground-system) |
+| [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
+| [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 ## Randomized
 |  |
 | ------- |
