@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/LucasMontebeller/leet-code/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1396-design-underground-system](https://github.com/LucasMontebeller/leet-code/tree/master/1396-design-underground-system) |
 | [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
+| [1845-seat-reservation-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1845-seat-reservation-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
 ## Doubly-Linked List
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1845-seat-reservation-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1845-seat-reservation-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
 |  |
