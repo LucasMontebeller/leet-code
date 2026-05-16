@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/LucasMontebeller/leet-code/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Matrix
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/LucasMontebeller/leet-code/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -166,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -219,5 +223,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
