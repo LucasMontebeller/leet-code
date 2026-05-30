@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LucasMontebeller/leet-code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/LucasMontebeller/leet-code/tree/master/3829-design-ride-sharing-system) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
+| [3829-design-ride-sharing-system](https://github.com/LucasMontebeller/leet-code/tree/master/3829-design-ride-sharing-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
+| [3829-design-ride-sharing-system](https://github.com/LucasMontebeller/leet-code/tree/master/3829-design-ride-sharing-system) |
 ## Ordered Set
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/LucasMontebeller/leet-code/tree/master/3829-design-ride-sharing-system) |
 ## Iterator
 |  |
 | ------- |
