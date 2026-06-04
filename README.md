@@ -256,5 +256,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/LucasMontebeller/leet-code/tree/master/0585-investments-in-2016) |
 | [1164-product-price-at-a-given-date](https://github.com/LucasMontebeller/leet-code/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
