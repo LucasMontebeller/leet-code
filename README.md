@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LucasMontebeller/leet-code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/LucasMontebeller/leet-code/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/LucasMontebeller/leet-code/tree/master/1396-design-underground-system) |
 | [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LucasMontebeller/leet-code/tree/master/0067-add-binary) |
+| [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1845-seat-reservation-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
+| [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
