@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2336-smallest-number-in-infinite-set](https://github.com/LucasMontebeller/leet-code/tree/master/2336-smallest-number-in-infinite-set) |
 | [2502-design-memory-allocator](https://github.com/LucasMontebeller/leet-code/tree/master/2502-design-memory-allocator) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
 | [2043-simple-bank-system](https://github.com/LucasMontebeller/leet-code/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
+| [2336-smallest-number-in-infinite-set](https://github.com/LucasMontebeller/leet-code/tree/master/2336-smallest-number-in-infinite-set) |
 | [2502-design-memory-allocator](https://github.com/LucasMontebeller/leet-code/tree/master/2502-design-memory-allocator) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1845-seat-reservation-manager) |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
+| [2336-smallest-number-in-infinite-set](https://github.com/LucasMontebeller/leet-code/tree/master/2336-smallest-number-in-infinite-set) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
 ## Data Stream
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/LucasMontebeller/leet-code/tree/master/2034-stock-price-fluctuation) |
+| [2336-smallest-number-in-infinite-set](https://github.com/LucasMontebeller/leet-code/tree/master/2336-smallest-number-in-infinite-set) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3815-design-auction-system](https://github.com/LucasMontebeller/leet-code/tree/master/3815-design-auction-system) |
 ## Counting
