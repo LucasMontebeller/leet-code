@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/LucasMontebeller/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LucasMontebeller/leet-code/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/LucasMontebeller/leet-code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
@@ -187,22 +189,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/LucasMontebeller/leet-code/tree/master/0404-sum-of-left-leaves) |
 ## Heap (Priority Queue)
 |  |
