@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LucasMontebeller/leet-code/tree/master/0066-plus-one) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/LucasMontebeller/leet-code/tree/master/0705-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1306-jump-game-iii](https://github.com/LucasMontebeller/leet-code/tree/master/1306-jump-game-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0208-implement-trie-prefix-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/LucasMontebeller/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/LucasMontebeller/leet-code/tree/master/0705-design-hashset) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/LucasMontebeller/leet-code/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LucasMontebeller/leet-code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1396-design-underground-system](https://github.com/LucasMontebeller/leet-code/tree/master/1396-design-underground-system) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LucasMontebeller/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/LucasMontebeller/leet-code/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/LucasMontebeller/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/LucasMontebeller/leet-code/tree/master/0705-design-hashset) |
 | [1797-design-authentication-manager](https://github.com/LucasMontebeller/leet-code/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LucasMontebeller/leet-code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/LucasMontebeller/leet-code/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0705-design-hashset](https://github.com/LucasMontebeller/leet-code/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/LucasMontebeller/leet-code/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/LucasMontebeller/leet-code/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/LucasMontebeller/leet-code/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/LucasMontebeller/leet-code/tree/master/0601-human-traffic-of-stadium) |
 | [1164-product-price-at-a-given-date](https://github.com/LucasMontebeller/leet-code/tree/master/1164-product-price-at-a-given-date) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/LucasMontebeller/leet-code/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
