@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/LucasMontebeller/leet-code/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/LucasMontebeller/leet-code/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LucasMontebeller/leet-code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-maximum-value-after-insertion](https://github.com/LucasMontebeller/leet-code/tree/master/1881-maximum-value-after-insertion) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/LucasMontebeller/leet-code/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
 ## Queue
 |  |
