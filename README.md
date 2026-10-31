@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2241-design-an-atm-machine](https://github.com/LucasMontebeller/leet-code/tree/master/2241-design-an-atm-machine) |
 | [2502-design-memory-allocator](https://github.com/LucasMontebeller/leet-code/tree/master/2502-design-memory-allocator) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/LucasMontebeller/leet-code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/LucasMontebeller/leet-code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2336-smallest-number-in-infinite-set](https://github.com/LucasMontebeller/leet-code/tree/master/2336-smallest-number-in-infinite-set) |
 | [2502-design-memory-allocator](https://github.com/LucasMontebeller/leet-code/tree/master/2502-design-memory-allocator) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3408-design-task-manager](https://github.com/LucasMontebeller/leet-code/tree/master/3408-design-task-manager) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/LucasMontebeller/leet-code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1352-product-of-the-last-k-numbers](https://github.com/LucasMontebeller/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/LucasMontebeller/leet-code/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LucasMontebeller/leet-code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/LucasMontebeller/leet-code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/LucasMontebeller/leet-code/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/LucasMontebeller/leet-code/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Greedy
@@ -298,4 +302,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/LucasMontebeller/leet-code/tree/master/0142-linked-list-cycle-ii) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/LucasMontebeller/leet-code/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
